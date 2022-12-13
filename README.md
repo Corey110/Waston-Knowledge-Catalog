@@ -1,1 +1,1 @@
-# Waston-Knowledge-Catalog-Demos
+# IBM WKC demo Data Mock For Insurance Industry
